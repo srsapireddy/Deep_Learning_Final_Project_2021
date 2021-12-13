@@ -36,6 +36,6 @@ Serverless is the concept of removing infrastructure considerations for deployin
 # Code Files</br>
 Link: https://github.com/srsapireddy/Serverless_Deep_Learning_Code</br></br>
 
-# Project 2</br>
+# Project 2 - Hackathon Project</br>
 Link: https://github.com/srsapireddy/lunar_lander_using_DQN
 
